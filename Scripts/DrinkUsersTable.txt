@@ -1,0 +1,1 @@
+Create Table DrinkUsers (ID int auto_increment primary key, NAME varchar(50), PHONE varchar(20), BIRTHDATE DATE, ADDRESS varchar(200), DATE varchar(20));
